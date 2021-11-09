@@ -50,7 +50,7 @@ async def help_command(_, message: Message):
         {
             "Help": "bot_commands",
             "Add Me To Your Group": f"https://t.me/{BOT_USERNAME}?startgroup=new",
-            "Support": "https://t.me/DarkPentester",
+            "Support": "https://t.me/yousefabaspour",
         }
     )
     mention = message.from_user.mention
